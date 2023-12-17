@@ -1,6 +1,6 @@
 # Steps to run project
 1) Type (in console) to install all dependencies: npm i
-2) Update the PostgreSQL credentials in app.js
+2) Update the PostgreSQL credentials in app.js (you can use .env file to store credentials like I did)
 3) Run the SQL commands given in "SQL queries.txt"
 4) Type (in console) to run the program: nodemon app.js
 
