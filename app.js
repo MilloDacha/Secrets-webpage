@@ -14,7 +14,7 @@ const db = new pg.Client({
     user: process.env.USER,
     host: process.env.HOST,
     database: process.env.DATABASE,
-    password: "dachaNomo#SQL",
+    password: *****,
     port: process.env.PORT,
 });
 db.connect();
