@@ -1,0 +1,8 @@
+//creating database table
+CREATE TABLE users (
+  id SERIAL PRIMARY KEY,
+  email TEXT,
+  password TEXT,
+  googleid TEXT,
+  secret TEXT
+);
